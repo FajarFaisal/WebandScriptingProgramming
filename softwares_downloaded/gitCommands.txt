@@ -1,0 +1,9 @@
+git config --global user.name "Fajar.Faisal"
+git config --global user.email "fajar.faisal@ontariotechu.net"
+
+-------
+cd = change directory
+
+use cd (directory name)
+use dir (to see directory)
+C:\Users\fajar\Documents\Fajar_OTU\University_Year2\Y_2_S_1\INFR3120U_Web and Script Programming
